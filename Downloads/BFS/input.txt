@@ -1,0 +1,17 @@
+Bremen
+Hannover
+Hamburg
+Osnabruck
+END
+Hannover Bremen 123
+Hannover Osnabruck 50
+Bremen Hamburg 113
+Hamburg Hannover 190
+END
+Hannover Bremen
+Hannover Paris
+Hannover Hamburg
+Osnabruck Bremen
+Hamburg Hamburg
+END
+
